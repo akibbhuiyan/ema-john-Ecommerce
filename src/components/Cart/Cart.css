@@ -1,0 +1,18 @@
+.cart-container {
+	width: 20%;
+}
+.cart {
+	margin-left: 5px;
+    text-align: center;
+}.cart table {
+	font-size: 12px;
+	text-align: left;
+	width: 100%;
+}.total-row {
+	color: #b12704;
+	font-size: 17px;
+	font-weight: 700;
+	line-height: 22px;
+	border: 1px solid gray;
+	margin-bottom: 10px;
+}

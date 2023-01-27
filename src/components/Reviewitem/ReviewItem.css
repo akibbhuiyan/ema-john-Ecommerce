@@ -1,0 +1,18 @@
+.review-item {
+	border-bottom: 1px solid lightgray;
+	margin-left: 50px;
+	padding-bottom: 5px;
+	margin-bottom: 5px;
+	display: flex;
+	align-items: center;
+	justify-content: space-evenly;
+}.addtoCart-btn {
+	background-color: #F0C14B;
+	padding: 9px 22px;
+	border: 1px solid #a29982;
+	box-shadow: 5px 3px 10px #a29982;
+	border-radius: 5px;
+	font-size: 16px;
+	cursor: pointer;
+	text-align: left;
+}

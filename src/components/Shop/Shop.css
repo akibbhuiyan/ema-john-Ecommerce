@@ -1,0 +1,9 @@
+.products-Container {
+	display: flex;
+}
+.product-container {
+	width: 80%;
+	margin-left: 12%;
+	padding-right: 10px;
+	border-right: 2px solid #9f8383;
+}
